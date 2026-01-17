@@ -1,4 +1,4 @@
-# Hi, I'm Rio Achyar
+# Hi🤙, I'm Rio Achyar 🤔
 
 <div align="center">
   
@@ -6,7 +6,15 @@
 
 </div>
 
-## Tech Stack
+## 🎈 About Me
+
+Software Engineering student focused on backend, full-stack web development & Mobile Apps.
+Daily work revolves around Laravel, PHP, REST API, database design, and basic frontend integration.
+
+Actively uses Git & GitHub for version control and learning proper workflow (Branching & Commits).
+Currently sharpening fundamentals: clean logic, readable code, and system thinking — not vibe coding, not blind copy-paste
+
+## 🎮 Tech Stack
 
 ### Languages
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=PHP&logoColor=white)
@@ -39,7 +47,7 @@
 ![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=Go&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=black)
 
-## Connect with Me
+## 👀 Connect with Me
 
 <div align="center">
 
@@ -49,8 +57,8 @@
 
 </div>
 
-## Current Goals
+## 🤲 Current Goals
 
--  Become Senior Software Engineer
+-  Become Senior Software Engineer, not a noisy tech influencer.
 -  Advanced in this field
 -  Explore AI and machine learning integration

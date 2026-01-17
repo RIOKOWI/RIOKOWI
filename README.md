@@ -1,1 +1,2 @@
-# aku-mah-masih-pemula-puh-
+# Hi, I'm Rio 👋
+Fullstack dev. Fuck ReactJS.

@@ -36,4 +36,13 @@
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=white)
+![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=Go&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=black)
+
+
+
+## Current Goals
+
+-  Become Senior Software Engineer
+-  Advanced in this field
+-  Explore AI and machine learning integration

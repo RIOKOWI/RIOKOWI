@@ -66,3 +66,19 @@ Currently sharpening fundamentals: clean logic, readable code, and system thinki
 -  Become Senior Software Engineer, not a noisy tech influencer.
 -  Advanced in this field
 -  Explore AI and machine learning integration
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=RIOKOWI&theme=swift&hide_border=false" />
+
+</div>
+
+
+## ✍️ Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=light" />
+</div>
+

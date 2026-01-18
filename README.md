@@ -3,7 +3,7 @@
     <img 
       src="https://github.com/user-attachments/assets/b4224f28-62e9-487a-acd1-7db5d50631cc"
       alt="cowgirl"
-      width="80%" height="80%" alt="Ghibli Landscape Header" style="border-radius: 15px;"
+      width="80%" height="80%" style="border-radius: 15px;"
     />   
   </a>
 </p>

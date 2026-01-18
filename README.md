@@ -54,13 +54,10 @@ Currently sharpening fundamentals: clean logic, readable code, and system thinki
 
 ## 👀 Stay Connect
 
-<div align="center">
-
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=inspire&logoColor=white)](https://www.linkedin.com/in/rio-achyar-b233362a5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/rioo.png)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:achyarrio2004@gmail.com?subject=GitHub%20Contact&body=Hi%20Rio,)
 
-</div>
 
 ## 🤲 Current Goals
 
@@ -70,16 +67,16 @@ Currently sharpening fundamentals: clean logic, readable code, and system thinki
 
 ## 📊 GitHub Stats
 
-<div align="center">
+
 
 <img src="https://nirzak-streak-stats.vercel.app/?user=RIOKOWI&theme=swift&hide_border=false" />
 
-</div>
+
 
 
 ## ✍️ Random Dev Quote
 
-<div align="center">
+
   <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=light" />
-</div>
+
 

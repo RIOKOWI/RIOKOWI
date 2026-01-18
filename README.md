@@ -1,12 +1,3 @@
-[![Rio Achyar profile views](https://u8views.com/api/v1/github/profiles/160130191/views/day-week-month-total-count.svg)](https://u8views.com/github/RIOKOWI)
-# Hi🤙, I'm Rio Achyar
-
-<div align="center">
-  
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=500&size=22&pause=1000&color=e0e6ec&center=true&vCenter=true&random=false&width=435&lines=Software+Engineer+Student;Consistent+over+motivated;Discipline+over+hype;G.O.A.T)
-
-</div>
-
 <p align="center">
   <a hreh="https://github.com/RIOKOWI">
     <img 
@@ -17,6 +8,21 @@
   </a>
 </p>
 
+<div align="center">
+  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=500&size=22&pause=1000&color=e0e6ec&center=true&vCenter=true&random=false&width=435&lines=Software+Engineer+Student;Consistent+over+motivated;Discipline+over+hype;G.O.A.T)
+
+</div>
+
+
+<div align="center">
+  <a href="https://u8views.com/github/RIOKOWI">
+    <img src="https://u8views.com/api/v1/github/profiles/160130191/views/day-week-month-total-count.svg" />
+  </a>
+</div>
+
+
+# Hi🤙, I'm Rio Achyar
 
 ## 🎈 About Me
 
@@ -65,9 +71,18 @@ Currently sharpening fundamentals: clean logic, readable code, and system thinki
 
 ## 👀 Stay Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=inspire&logoColor=white)](https://www.linkedin.com/in/rio-achyar-b233362a5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/rioo.png)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:achyarrio2004@gmail.com?subject=GitHub%20Contact&body=Hi%20Rio,)
+<p align="center">
+  <a href="https://www.linkedin.com/in/rio-achyar-b233362a5">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=inspire&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/rioo.png">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" />
+  </a>
+  <a href="mailto:achyarrio2004@gmail.com?subject=GitHub%20Contact&body=Hi%20Rio,">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" />
+  </a>
+</p>
+
 
 
 ## 🤲 Current Goals

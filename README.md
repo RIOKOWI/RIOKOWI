@@ -78,16 +78,14 @@ Currently sharpening fundamentals: clean logic, readable code, and system thinki
 
 ## 📊 GitHub Stats
 
-
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=RIOKOWI&theme=swift&hide_border=false" />
-
-
-
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=RIOKOWI&theme=swift&hide_border=false" />
+</p>
 
 ## ✍️ Random Dev Quote
 
-
+<p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=light" />
+</p>
 
 

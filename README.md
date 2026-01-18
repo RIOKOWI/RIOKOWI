@@ -18,6 +18,7 @@ width="80%" height="80%" alt="Ghibli Landscape Header" style="border-radius: 15p
 </p>
 
 ---
+<br>
 
 ## 🎈 About Me
 

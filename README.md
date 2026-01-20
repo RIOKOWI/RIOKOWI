@@ -10,7 +10,7 @@
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=500&size=22&pause=1000&color=e0e6ec&center=true&vCenter=true&random=false&width=435&lines=Software+Engineer+Student;Consistent+over+motivated;Discipline+over+hype;G.O.A.T)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=500&size=22&pause=1000&color=e0e6ec&center=true&vCenter=true&random=false&width=435&lines=Software+Engineering+Student;Consistent+over+motivated;Discipline+over+hype;G.O.A.T)
 
 </div>
 
@@ -88,17 +88,11 @@ Currently sharpening fundamentals: clean logic, readable code, and system thinki
 ## 🤲 Current Goals
 
 -  Become Senior Software Engineer, not a noisy tech influencer.
--  Advanced in this field
+-  Wannabe Advanced in this field
 -  Explore AI and machine learning integration
 
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=RIOKOWI&theme=swift&hide_border=true" />
-</p>
-
-## ✍️ Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=light" />
 </p>

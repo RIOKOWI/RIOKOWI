@@ -22,16 +22,6 @@
 </div>
 
 
-# Hi🤙, I'm Rio Achyar
-
-## 🎈 About Me
-
-Software Engineering student focused on backend, full-stack web development & Mobile Apps.
-Daily work revolves around Laravel, PHP, REST API, database design, and basic frontend integration.
-
-Actively uses Git & GitHub for version control and learning proper workflow (Branching & Commits).
-Currently sharpening fundamentals: clean logic, readable code, and system thinking
-
 ## 🎮 Tech Stack
 
 ### Languages
@@ -81,18 +71,4 @@ Currently sharpening fundamentals: clean logic, readable code, and system thinki
   <a href="mailto:achyarrio2004@gmail.com?subject=GitHub%20Contact&body=Hi%20Rio,">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" />
   </a>
-</p>
-
-
-
-## 🤲 Current Goals
-
--  Become Senior Software Engineer, not a noisy tech influencer.
--  Wannabe Advanced in this field
--  Explore AI and machine learning integration
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=RIOKOWI&theme=swift&hide_border=true" />
 </p>
